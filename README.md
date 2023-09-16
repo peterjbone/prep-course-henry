@@ -1,3 +1,7 @@
-Joao Bone
+# HENRY PREP COURSE
 
-Este es un repositorio de prueba para clonar un repositorio de gitthub a mi pc local
+## Próposito de este repositorio
+
+Este es un repositorio para prácticar las lecciones de cada módulo
+
+![coding](https://picsum.photos/id/1/200)
